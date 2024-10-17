@@ -46,6 +46,6 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 6. La aplicación se iniciará en el dispositivo/emulador.
 
 Funcionalidades
-    Agregar recetas: Usa el formulario en la pantalla principal para agregar una receta.
-    Ver recetas: Las recetas agregadas se muestran en una lista con todos sus detalles.
-    Eliminar recetas: Puedes eliminar cualquier receta de la lista
+- Agregar recetas: Usa el formulario en la pantalla principal para agregar una receta.
+- Ver recetas: Las recetas agregadas se muestran en una lista con todos sus detalles.
+- Eliminar recetas: Puedes eliminar cualquier receta de la lista
