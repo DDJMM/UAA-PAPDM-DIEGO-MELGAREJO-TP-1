@@ -1,4 +1,6 @@
 # UAA-PAPDM-DIEGO-MELGAREJO-TP-1
+
+El codigo se encuenta en la rama master
 # Recetas Cocina App
 
 Esta es una aplicación Android para gestionar y mostrar recetas de cocina. Los usuarios pueden agregar nuevas recetas, ver detalles como el tiempo de preparación, ingredientes, calorías por porción, y eliminar recetas si lo desean.
